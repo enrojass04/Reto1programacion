@@ -2,7 +2,7 @@
   "name": "portafolio1",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://enrojass04.github.io/Reto-1-de-Programacion/",
+  "homepage": "https://enrojass04.github.io/Reto1programacion/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
