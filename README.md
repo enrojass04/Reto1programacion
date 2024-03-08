@@ -8,13 +8,13 @@ Reto de programación 1 BootCamp Talento Tech.
 - Vite
 - Tailwind
 
-## Capturas de Pantalla
+<!-- ## Capturas de Pantalla
 
 ![Imagen 1 de Mi Proyecto](src/assets/ProjectImages/pt1.png)
 ![Imagen 2  de Mi Proyecto](src/assets/ProjectImages/pt2.png)
 ![Imagen 3  de Mi Proyecto](src/assets/ProjectImages/pt3.png)
 ![Imagen 4  de Mi Proyecto](src/assets/ProjectImages/pt4.png)
-![Imagen 5  de Mi Proyecto](src/assets/ProjectImages/pt5.png)
+![Imagen 5  de Mi Proyecto](src/assets/ProjectImages/pt5.png) -->
 
 ## Primeros pasos
 
