@@ -16,7 +16,7 @@ const Home = () => {
         <div className="w-full md:w-1/2 pr-4 mb-4 md:mb-0">
           <img
             className="w-48 h-48 rounded-full mx-auto mb-4"
-            src="../src/assets/Photos/Profile.png"
+            src="https://drive.google.com/drive/u/0/folders/11VAtJDKfY5Pu38JJzW4v3w0JqJxFZ9i4"
             alt="portafolio"
           />
         </div>
