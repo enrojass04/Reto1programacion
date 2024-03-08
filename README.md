@@ -36,6 +36,9 @@ Abra [http://localhost:5173/](http://localhost:5173/) con su navegador para ver 
 
 Este proyecto utiliza Tailwind CSS para el estilo. Puedes personalizar los estilos modificando el archivo `tailwind.config.js`. Para obtener más información, consulta la [documentación de Tailwind CSS](https://tailwindcss.com/docs).
 
+## Puedes ver la previsualización aquí:
+[Reto 1](https://enrojass04.github.io/Reto1programacion/).
+
 ## Más Información
 
 Para obtener más información sobre React, Vite y Tailwind CSS, consulta los siguientes recursos:
